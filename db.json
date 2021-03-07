@@ -1,0 +1,192 @@
+{
+  "documents": [
+    {
+      "id": 1,
+      "DocumentID": 123,
+      "DateDocument": "2021/02/05",
+      "Office": "Bộ chỉ huy biên phòng tỉnh Phú Yên",
+      "DateInsert": "2021/03/04",
+      "Abstract": "Kế hoạch chuẩn bị hồ sơ, tài liệu triển khai thi hành Luật Biên phòng Việt Nam",
+      "PageNumber": 5,
+      "CopyNumber": 3,
+      "Confidential": "Tối mật",
+      "ImageLink": "./src/Image/document.png",
+      "FileLink": "./src/Image/document.doc",
+      "Receiver": "Phòng cơ yếu",
+      "IsRead": "True",
+      "DateRead": "2021/03/05"
+    },
+    {
+      "PageNumber": 2,
+      "id": 2,
+      "DocumentID": 124,
+      "DateDocument": "2021/02/23",
+      "Office": "Biên phòng tỉnh Lào Cai",
+      "DateInsert": "2021/03/02",
+      "CopyNumber": 4,
+      "Confidential": "Tuyệt Mật",
+      "Receiver": "Phòng An ninh",
+      "ImageLink": "./qqqqq",
+      "FileLink": "./eeeee",
+      "Abstract": "Tổng hợp quân số toàn tỉnh"
+    },
+    {
+      "PageNumber": 2,
+      "id": 3,
+      "DocumentID": 129,
+      "DateDocument": "2021/02/23",
+      "Office": "Biên phòng tỉnh Quảng Ninh",
+      "DateInsert": "2021/03/03",
+      "CopyNumber": 6,
+      "Confidential": "Tối mật",
+      "Receiver": "Phòng Ngan",
+      "ImageLink": "./eee",
+      "FileLink": "./jjjjj",
+      "Abstract": "Bảo vệ đại hội đảng các cấp"
+    },
+    {
+      "id": 4,
+      "DocumentID": 125,
+      "DateDocument": "2021/02/07",
+      "Office": "Bộ quốc phòng",
+      "DateInsert": "2021/03/03",
+      "Abstract": "Lệnh tổng tấn công",
+      "PageNumber": 23,
+      "CopyNumber": 10,
+      "Confidential": "Tuyệt mật",
+      "ImageLink": "",
+      "FileLink": "./src/Image/document1.doc",
+      "Receiver": "Phòng cơ yếu",
+      "IsRead": "False",
+      "DateRead": ""
+    },
+    {
+      "id": 5,
+      "DocumentID": 125,
+      "DateDocument": "2021/02/07",
+      "Office": "Bộ quốc phòng",
+      "DateInsert": "2021/03/03",
+      "Abstract": "Lệnh tổng tấn công",
+      "PageNumber": 23,
+      "CopyNumber": 10,
+      "Confidential": "Tuyệt mật",
+      "ImageLink": "",
+      "FileLink": "./src/Image/document1.doc",
+      "Receiver": "Phòng cơ yếu",
+      "IsRead": "False",
+      "DateRead": ""
+    },
+    {
+      "id": 6,
+      "DocumentID": 125,
+      "DateDocument": "2021/02/07",
+      "Office": "Bộ quốc phòng",
+      "DateInsert": "2021/03/03",
+      "Abstract": "Lệnh tổng tấn công",
+      "PageNumber": 23,
+      "CopyNumber": 10,
+      "Confidential": "Tuyệt mật",
+      "ImageLink": "",
+      "FileLink": "./src/Image/document1.doc",
+      "Receiver": "Phòng cơ yếu",
+      "IsRead": "False",
+      "DateRead": ""
+    },
+    {
+      "id": 7,
+      "DocumentID": 125,
+      "DateDocument": "2021/02/07",
+      "Office": "Bộ quốc phòng",
+      "DateInsert": "2021/03/03",
+      "Abstract": "Lệnh tổng tấn công",
+      "PageNumber": 23,
+      "CopyNumber": 10,
+      "Confidential": "Tuyệt mật",
+      "ImageLink": "",
+      "FileLink": "./src/Image/document1.doc",
+      "Receiver": "Phòng cơ yếu",
+      "IsRead": "False",
+      "DateRead": ""
+    },
+    {
+      "Confidential": "Tuyệt mật",
+      "id": 8,
+      "DocumentID": 126,
+      "DateDocument": "2021/01/27",
+      "Office": "Biên phòng tỉnh Sóc Trăng",
+      "DateInsert": "2021/03/02",
+      "PageNumber": 5,
+      "CopyNumber": 70,
+      "Receiver": "Chỉ huy trưởng",
+      "ImageLink": "./xxxxx",
+      "FileLink": "./zzzz",
+      "Abstract": "Phong trào toàn dân bảo vệ an ninh tổ quốc"
+    },
+    {
+      "id": 9,
+      "DocumentID": 125,
+      "DateDocument": "2021/02/07",
+      "Office": "Bộ quốc phòng",
+      "DateInsert": "2021/03/03",
+      "Abstract": "Lệnh tổng tấn công",
+      "PageNumber": 23,
+      "CopyNumber": 10,
+      "Confidential": "Tuyệt mật",
+      "ImageLink": "",
+      "FileLink": "./src/Image/document1.doc",
+      "Receiver": "Phòng cơ yếu",
+      "IsRead": "False",
+      "DateRead": ""
+    },
+    {
+      "id": 11,
+      "DocumentID": 125,
+      "DateDocument": "2021/02/07",
+      "Office": "Bộ quốc phòng",
+      "DateInsert": "2021/03/03",
+      "Abstract": "Lệnh tổng tấn công",
+      "PageNumber": 23,
+      "CopyNumber": 10,
+      "Confidential": "Tuyệt mật",
+      "ImageLink": "",
+      "FileLink": "./src/Image/document1.doc",
+      "Receiver": "Phòng cơ yếu",
+      "IsRead": "False",
+      "DateRead": ""
+    },
+    {
+      "DocumentID": 1,
+      "DateDocument": "2021/03/02",
+      "Office": "1",
+      "DateInsert": "2021/02/23",
+      "PageNumber": 1,
+      "CopyNumber": 1,
+      "Confidential": "1",
+      "Receiver": "1",
+      "Abstract": "1",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "hungdhv97@gmail.com",
+      "password": "23081997",
+      "role": "AD"
+    },
+    {
+      "id": "2",
+      "email": "phonganninh@gmail.com",
+      "password": "123456",
+      "role": "AN"
+    },
+    {
+      "id": "KrO6tvE"
+    },
+    {
+      "email": "taint@gmail.com",
+      "password": "123456",
+      "id": "wGQjqla"
+    }
+  ]
+}

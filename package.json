@@ -1,0 +1,47 @@
+{
+  "name": "form-editing-devextreme-data-grid",
+  "description": "DataGrid can use the Form UI component to arrange cell editors when users modify a row. Users can edit value in visible and hidden columns (see the Notes column).\nTo use the Form as the row editor UI, specify the following properties:\n\nediting.mode to \"form\"\nediting.allowUpdating to true\n\nA column's default editor is defined automatically based on this column's dataType. To customize this editor or replace it with another editor, use the column's formItem object. This demo shows how to replace the default editor in the Notes column with a TextArea. Refer to the SimpleItem help topic for information on all settings that you can define in the formItem object.\nYou can also set up the edit Form from scratch. The UI component's configuration section lists available settings. Specify these settings in the editing.form object. Refer to this object's description for more information about this edit mode's limitations.\n",
+  "dependencies": {
+    "devexpress-diagram": "2.0.11",
+    "devexpress-gantt": "2.0.18",
+    "devextreme": "20.2.5",
+    "devextreme-quill": "0.9.8",
+    "devextreme-react": "20.2.5",
+    "es6-object-assign": "1.1.0",
+    "gh-pages": "^3.1.0",
+    "json-server": "^0.16.3",
+    "jszip": "3.5.0",
+    "luxon": "1.25.0",
+    "preact": "10.5.11",
+    "prop-types": "15.7.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "rrule": "2.6.6",
+    "whatwg-fetch": "^3.6.2"
+  },
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "^4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "json-server": "json-server --watch ./main/db.json --port 3010",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "https://hungdhv97.github.io/app",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
